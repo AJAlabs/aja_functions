@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: AJA Functions
- * Plugin URI: http://ajalabs.com
+ * Plugin URI: https://github.com/AJAlabs/aja_functions
  * Description: Custom WordPress functions.php that is not theme dependent.
  * Author: AJ Acevedo
  * Author URI: http://ajacevedo.com
