@@ -4,8 +4,8 @@
  * Plugin URI: https://github.com/AJAlabs/aja_functions
  * Description: Custom WordPress functions.php that is not theme dependent.
  * Author: AJ Acevedo
- * Author URI: http://ajacevedo.com
- * Version: 0.1.0
+ * Author URI: http://AJAlabs.com
+ * Version: 0.1.1
  * License: MIT License
  */
 
